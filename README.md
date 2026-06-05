@@ -210,7 +210,7 @@ The implementations are verified by:
 If you use this code, please cite:
 
 ```
-Periyandy, T. & Bevis, M. (2025).
+Periyandy, T. & Bevis, M. (2026).
 The Gravitational Field of a Homogeneous Polyhedron.
 Division of Geodetic Science, School of Earth Sciences,
 The Ohio State University.
