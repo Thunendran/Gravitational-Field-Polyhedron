@@ -1,0 +1,3 @@
+total_time_sec: 34.629700
+time_per_point_sec: 3.462969994545e-04
+time_per_point_us: 346.296999

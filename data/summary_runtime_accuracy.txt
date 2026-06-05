@@ -1,0 +1,9 @@
+=== Gravitational Potential Accuracy & Speed Summary ===
+Reference: Julia BigFloat (250 digits)
+Julia 50 comparison performed at 52-digit arithmetic precision.
+
+Code      runtime (s/pt)     mean(error)       RMS(error)
+0    Python           01.98×10⁻6     03.21×10⁻15     03.61×10⁻15
+1    MATLAB           06.04×10⁻6     04.81×10⁻15     05.73×10⁻15
+2    Julia_MP         04.90×10⁻7     03.02×10⁻15     03.42×10⁻15
+3    Julia50          02.00×10⁻4     05.56×10⁻50     07.22×10⁻50

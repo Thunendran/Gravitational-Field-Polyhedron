@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+data/A_ref_bigfloat_250digits.txt
+data/T_ref_bigfloat_250digits.txt
