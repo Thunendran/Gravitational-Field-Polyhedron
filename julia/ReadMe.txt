@@ -60,21 +60,20 @@ Directory Structure
 Benchmark Scripts
 ---------------------------------------------------------------
 
-1️⃣  benchmark_julia_Float64_Big50_Big250.jl
+1️ benchmark_julia_Float64_Big50_Big250.jl
    • Compares Float64, BigFloat(50), and BigFloat(250) potential evaluations.
    • Uses selective precomputations (mode=:potential).
 
-2️⃣ benchmark_julia_accel.jl
+2️ benchmark_julia_accel.jl
    • Benchmarks acceleration computations for the same polyhedron geometry.
    • Runs all three precision levels (Float64, 50-digit, 250-digit).
    • Uses mode=:acceleration.
 
-3️⃣ benchmark_julia_tensor.jl
-   • Evaluates the full gravity gradient tensor.
+3️• Evaluates the full gravity gradient tensor.
    • Tests both speed and precision scaling.
    • Uses mode=:tensor.
 
-4️⃣ precision_scaling_potential.jl
+4️ precision_scaling_potential.jl
    • Sweeps BigFloat precision from 20–200 digits.
    • Measures runtime vs mean relative error compared to a 250-digit reference.
    • Generates log-log scaling plots.
