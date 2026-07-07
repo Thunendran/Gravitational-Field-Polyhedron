@@ -8,9 +8,10 @@ Multi-language implementation (Python, MATLAB, Julia) of the singularity-free cl
 
 ## Reference
 
-> Periyandy, T. & Bevis, M. (2026).  
-> *The Gravitational Field of a Homogeneous Polyhedron.*  
-> Division of Geodetic Science, School of Earth Sciences, The Ohio State University.
+> Periyandy, T., & Bevis, M. (2026).  
+> *The gravitational field of a homogeneous polyhedron.*  
+> Celestial Mechanics and Dynamical Astronomy, 138, Article 33.  
+> https://doi.org/10.1007/s10569-026-10302-5
 
 **Authors:**  
 - Thunendran Periyandy — Sabaragamuwa University of Sri Lanka / The Ohio State University  
@@ -209,13 +210,11 @@ The implementations are verified by:
 
 If you use this code, please cite:
 
-```
-Periyandy, T. & Bevis, M. (2026).
-The Gravitational Field of a Homogeneous Polyhedron.
-Division of Geodetic Science, School of Earth Sciences,
-The Ohio State University.
-```
-
+```text
+Periyandy, T., & Bevis, M. (2026).
+The gravitational field of a homogeneous polyhedron.
+Celestial Mechanics and Dynamical Astronomy, 138, Article 33.
+https://doi.org/10.1007/s10569-026-10302-5
 ---
 
 ## License
