@@ -14,7 +14,7 @@ Multi-language implementation (Python, MATLAB, Julia) of the singularity-free cl
 > https://doi.org/10.1007/s10569-026-10302-5
 
 **Authors:**  
-- Thunendran Periyandy — Sabaragamuwa University of Sri Lanka / The Ohio State University  
+- Thunendran Periyandy — The Ohio State University / Sabaragamuwa University of Sri Lanka 
 - Michael Bevis — The Ohio State University  
 
 Correspondence: thunendran@gmail.com
