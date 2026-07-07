@@ -215,7 +215,7 @@ Periyandy, T., & Bevis, M. (2026).
 The gravitational field of a homogeneous polyhedron.
 Celestial Mechanics and Dynamical Astronomy, 138, Article 33.
 https://doi.org/10.1007/s10569-026-10302-5
----
+'''
 
 ## License
 
